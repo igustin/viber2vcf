@@ -7,3 +7,4 @@ Korištenje:
 - pokrenuti ./viber.vcf.sh
 - dobivenu datoteku imenik-sve.vcf importirati u imenik
 
+Više na gustin.info/vracanje-kontakata-android-smartphonea-iz-vibera
